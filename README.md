@@ -40,4 +40,4 @@ Não há necessidade de instalação.
 ✅ Imagens autorais.
 
 <h3 id="preview">🎥 Preview</h3>
-<img src="./video/screen 03.gif" width="600px">
+<img src="./video/video.gif" width="600px">
